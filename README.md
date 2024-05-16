@@ -230,6 +230,7 @@ have trouble with this, please ask and someone around can help you through the s
 
 
 
+
 Tip: It is good practice to get in the habit of making commits that are small and have a distinct purpose.
 For example, one might imagine making a commit each time they complete a task they are working on or finish
 making edits to a specific file. Keeping your commits small will allow your commit messages to remain short and descriptive.
